@@ -1,0 +1,25 @@
+
+        	PROJECT: SUPER OTHELLO GAME
+
+	Developed By:
+			Md. Lizur Rahman
+			East West University
+			Dhaka-1212, Bangladesh
+			E-mail: lizur.sky@gmail.com
+			Contact: +8801912234276
+                                 
+
+	This is a project of a super Othello Game.Here I use super power for proceed to next player.
+	Each player can use the super power only once. This is a project with Text-File based. At the 
+	beginning of the game, display a menu banner and this is given below :
+              
+                                  1. New Game
+
+                                  2. Load a Game
+
+                                  3. Help
+
+                                  4. Quit
+                 
+	There is a text file named "game.txt" in this game.Which save the game data & we can also 
+	load game from this.
